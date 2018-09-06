@@ -1,0 +1,40 @@
+.App-header {
+  background-color: #00001A;
+  height: 88px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.reset-deck {
+  padding: 1em;
+  text-align: right;
+}
+
+.reset-button {
+  background-color: #EEEEEE;
+  padding: 0.5em;
+  border-radius: 4px;
+}
+.card-contents { margin: 2em;  }
+
+.current-deck {
+  max-height: 560px;
+  overflow: scroll;
+}
+
+.current-deck ul { list-style-type: none; }
+
+.card-button {
+  background-color: #EEEEEE;
+  text-align: center;
+  padding: 1em 4em;
+  margin-bottom: 1em;
+  border: 1px solid #00001A;
+  border-radius: 4px;
+}
+
+.current-card { text-align: center; }

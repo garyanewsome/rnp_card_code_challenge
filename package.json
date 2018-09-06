@@ -1,0 +1,24 @@
+{
+  "name": "rnp_card_code_challenge",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "clone": "^2.1.2",
+    "flux": "^3.1.3",
+    "jquery": "^3.3.1",
+    "kew": "^0.7.0",
+    "popper.js": "^1.14.4",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
